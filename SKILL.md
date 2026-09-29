@@ -42,8 +42,8 @@ Follow `assets/template.md` exactly. In summary:
 - *Cost*: table with Paid in full, Payment plan, and any optional add-ons. State the currency and whether VAT or tax is included. Note what third-party fees (platform subscription, SMS carrier fees) the client pays directly.
 - *Timeframe*: expected start, expected launch, support period. Note any dependencies that could move dates.
 - *What we need from you*: always include ongoing needs (regular communication and timely feedback, a single point of contact, attendance at reviews). Add a table of hard deliverables with needed-by dates when there are any.
-- *What happens next*: seven fixed steps — confirm payment option, sign the service agreement, pay the first invoice, book the kick-off call, join Slack and Asana, the module-by-module build with weekly updates, then documentation, training and handover. Restate the valid-until date.
-
+- *What happens next*: seven fixed steps — confirm payment option, sign the service agreement, pay the first invoice, book the kick-off call, access and setup (Slack, Asana, HighLevel and any other tools), the module-by-module build with weekly updates, then documentation, training and handover. Restate the valid-until date.
+  
 ## Style
 
 - British spelling (organisation, prioritise, programme) for UK clients and by default. Use the client's currency.
