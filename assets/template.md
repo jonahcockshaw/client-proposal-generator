@@ -101,10 +101,14 @@
 | --- | --- |
 | [Item] | [When] |
 
-### Next steps
+### What happens next
 
-1. Reply to confirm your chosen payment option
-2. We send the agreement and first invoice
-3. Once signed and paid, we book your kick-off call
+1. **Confirm your payment option**: reply to let us know whether you'd like to pay in full or use the payment plan.
+2. **Review and sign the service agreement**: we'll send it as soon as you confirm.
+3. **Pay the first invoice**: once it's paid, your project is booked in.
+4. **Book your kick-off call**: we confirm scope, priorities and timings.
+5. **Access and setup**: join our shared Slack channel for day-to-day communication and the Asana project where you can follow progress. You'll also grant us access to your HighLevel account and any other tools or services we'll need for the project.
+6. **The build**: we build one module at a time and review each one with you before moving on. You'll get a short weekly video update and a written status summary.
+7. **Documentation, training and handover**: we test, go live, train your team and hand over full written documentation.
 
 This proposal is valid until [DD Month YYYY].
