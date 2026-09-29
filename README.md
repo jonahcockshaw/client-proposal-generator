@@ -1,4 +1,4 @@
-# client-proposal
+# client-proposal-generator
 
 An [Agent Skill](https://agentskills.io) for drafting My GHL Coach client proposals in a consistent three-part structure: **The Goal**, **The Plan** and **The Investment**.
 
@@ -9,5 +9,5 @@ An [Agent Skill](https://agentskills.io) for drafting My GHL Coach client propos
 
 ## Using it
 
-- **Claude (claude.ai / Claude Code):** upload the `.skill` file or drop this folder into your skills directory.
+- **Claude (claude.ai / Claude Code):** upload the skill or clone this repo into your skills directory.
 - **Other LLMs and agents:** point the tool at `SKILL.md`, or paste its contents plus `assets/template.md` into the system prompt or project instructions.
