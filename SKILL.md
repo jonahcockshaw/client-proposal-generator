@@ -1,5 +1,5 @@
 ---
-name: client-proposal
+name: client-proposal-generator
 description: Drafts new-client proposals for My GHL Coach using the house three-part structure (The Goal, The Plan, The Investment). Use this whenever Jonah asks for a proposal, quote, scope, pitch or "what we'd build" for a prospective or new client — including after a mapping session, discovery call or client email thread — even if he doesn't say the word "proposal".
 ---
 
